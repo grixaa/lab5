@@ -26,3 +26,13 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+
+a.foo2:hover {
+    text-decoration-color: black;
+    color: black;
+  }
+  a.foo2 {
+    text-decoration-color: Blue;
+    color: blue;
+  }
+  
